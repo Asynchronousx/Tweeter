@@ -28,14 +28,14 @@ Home Feed: useful to tweet and see other user tweet.<br>
 Personal Feed: Page reserved to managing our user, with functionality such as password reset, changing user profile image, check follower, followings and post lists. <br>
 <img src="https://i.ibb.co/g7NSpb0/5.png" width="300">
 
-Searching: Hashtags <br>
+Searching: Users <br>
 <img src="https://i.ibb.co/2PVjjdR/6.png" width="300">
 
-Searching: Users <br>
+Searching: Hashtags <br>
 <img src="https://i.ibb.co/3ypkcb7/7.png" width="300">
 
 Example of populated home feed <br>
-<img src="https://i.ibb.co/2PVjjdR/6.png" width="300">
+<img src="https://i.ibb.co/pzFYNtk/8.png" width="300">
 
 
 
