@@ -12,7 +12,7 @@ If you want to try the program itself, you can download the OUT folder and run t
 Following here, some screenshot of how the software looks like:
 
 ## Login Screen
-![alt text](https://picoolio.net/image/dBgB)
+![stack Overflow](http://lmsotfy.com/so.png)
 
 
 
