@@ -12,9 +12,9 @@ public class DBConnection {
     @Attributes
     //Attributes specify driver, user and pass to log into the database
     private static Connection connection;
-    private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
-    private static final String USER = "tweeteruser";
-    private static final String PASS = "tweeter2019";
+    private static final String DRIVER = "INSERT YOUR DRIVER HERE";
+    private static final String USER = "INSERT DB USER";
+    private static final String PASS = "INSERT DB PASS";
 
     @Methods
     //Getting the connection with a lazy initialization
