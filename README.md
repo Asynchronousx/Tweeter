@@ -12,13 +12,13 @@ If you want to try the program itself, you can download the OUT folder and run t
 Following here, some screenshot of how the software looks like:
 
 ### Main Screen
-Login screen: Combo a registered user-password to log into the system.
+Login screen: Combo a registered user-password to log into the system. <br>
 <img src="https://i.ibb.co/8dWvp76/2.png" width="300">
 
-Sign Up Screen: use it to register to the system.
+Sign Up Screen: use it to register to the system.<br>
 <img src="https://i.ibb.co/8dWvp76/2.png" width="300">
 
-Forgot Password Screen: use it to reset your password.
+Forgot Password Screen: use it to reset your password.<br>
 <img src="https://i.ibb.co/Yfhzq7g/3.png" width="300">
 
 ### Feed Screens
