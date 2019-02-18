@@ -37,9 +37,11 @@ Searching: Hashtags <br>
 Example of populated home feed <br>
 <img src="https://i.ibb.co/pzFYNtk/8.png" width="300">
 
+# Further Details
+If you'd like to know more about how this application was implemented and structured, all the pattern utilized and the logic behind every operation, check my online PDF containing all those details. 
+Link coming soon
 
-
-
+Thanks for reading!
 
 
 
