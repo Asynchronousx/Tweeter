@@ -11,9 +11,17 @@ If you want to try the program itself, you can download the OUT folder and run t
 # Example of funcionality 
 Following here, some screenshot of how the software looks like:
 
-## Login Screen
-![stack Overflow](https://picoolio.net/image/dBgB)
+### Login Screen
+![Login Screen](https://picoolio.net/image/dBgB)
+![SignUp Screen](https://picoolio.net/image/dBBW)
+![Forgot Password Screen](https://picoolio.net/image/dBg3)
 
+### Feed Screens
+![Main Feed Screen](https://picoolio.net/image/dBgI)
+![Personal Page Screen](https://picoolio.net/image/dBgd)
+![Searching Hashtag Screen](https://picoolio.net/image/dBgS)
+![Searching Person Screen](https://picoolio.net/image/dBgq)
+![Example of Full Feed Screen]()
 
 
 
