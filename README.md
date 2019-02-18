@@ -12,16 +12,16 @@ If you want to try the program itself, you can download the OUT folder and run t
 Following here, some screenshot of how the software looks like:
 
 ### Login Screen
-![Login Screen](https://picoolio.net/image/dBgB)
-![SignUp Screen](https://picoolio.net/image/dBBW)
-![Forgot Password Screen](https://picoolio.net/image/dBg3)
+![Login Screen](https://picoolio.net/image/dBgB)<br>
+![SignUp Screen](https://picoolio.net/image/dBBW)<br>
+![Forgot Password Screen](https://picoolio.net/image/dBg3)<br>
 
 ### Feed Screens
-![Main Feed Screen](https://picoolio.net/image/dBgI)
-![Personal Page Screen](https://picoolio.net/image/dBgd)
-![Searching Hashtag Screen](https://picoolio.net/image/dBgS)
-![Searching Person Screen](https://picoolio.net/image/dBgq)
-![Example of Full Feed Screen]()
+![Main Feed Screen](https://picoolio.net/image/dBgI)<br>
+![Personal Page Screen](https://picoolio.net/image/dBgd)<br>
+![Searching Hashtag Screen](https://picoolio.net/image/dBgS)<br>
+![Searching Person Screen](https://picoolio.net/image/dBgq)<br>
+![Example of Full Feed Screen]()<br>
 
 
 
