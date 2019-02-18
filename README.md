@@ -13,9 +13,8 @@ Following here, some screenshot of how the software looks like:
 
 ### Login Screen
 <img src="https://i.ibb.co/8dWvp76/2.png" width="300">
-![Login Screen](https://i.ibb.co/8dWvp76/2.png | width=48)<br>
-![SignUp Screen](https://picoolio.net/image/dBBW)<br>
-![Forgot Password Screen](https://picoolio.net/image/dBg3)<br>
+<img src="https://i.ibb.co/8dWvp76/2.png" width="300">
+<img src="https://i.ibb.co/Yfhzq7g/3.png" width="300">
 
 ### Feed Screens
 ![Main Feed Screen](https://picoolio.net/image/dBgI)<br>
