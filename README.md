@@ -12,7 +12,7 @@ If you want to try the program itself, you can download the OUT folder and run t
 Following here, some screenshot of how the software looks like:
 
 ### Login Screen
-<img src="https://i.ibb.co/8dWvp76/2.png" width="48">
+<img src="https://i.ibb.co/8dWvp76/2.png" width="250">
 ![Login Screen](https://i.ibb.co/8dWvp76/2.png | width=48)<br>
 ![SignUp Screen](https://picoolio.net/image/dBBW)<br>
 ![Forgot Password Screen](https://picoolio.net/image/dBg3)<br>
