@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #AAB8C2;
+}
+
+.button:hover{
+    -fx-text-fill:  rgb(22, 131, 204);
+}
+
+.button:focused {
+    -fx-text-fill:  rgb(22, 131, 204);
+}

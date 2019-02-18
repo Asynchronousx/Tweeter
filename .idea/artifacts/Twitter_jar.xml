@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Twitter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Twitter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Twitter.jar">
+        <element id="module-output" name="Twitter" />
+      </element>
+      <element id="file-copy" path="C:/Program Files/MySQL/mysql-connector-java-8.0.14/mysql-connector-java-8.0.14.jar" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

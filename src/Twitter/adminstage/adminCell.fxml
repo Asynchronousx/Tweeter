@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="99.0" prefWidth="520.0" style="-fx-border-color: #1da1f2; -fx-border-radius: 20; -fx-background-color: transparent;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Twitter.adminstage.AdminListViewCellController">
+   <children>
+      <Label fx:id="nameLabel" layoutX="108.0" layoutY="13.0" text="Placeholder">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="banButton" layoutX="416.0" layoutY="53.0" mnemonicParsing="false" onAction="#ban" prefHeight="13.0" prefWidth="90.0" text="Ban" textFill="RED">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <stylesheets>
+            <URL value="@../resources/CSS/login.css" />
+            <URL value="@../resources/CSS/signup.css" />
+         </stylesheets>
+      </Button>
+      <Button fx:id="resetPSWButton" layoutX="416.0" layoutY="14.0" mnemonicParsing="false" onAction="#resetPSW" stylesheets="@../resources/CSS/login.css" text="Reset PSW" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Button>
+      <Label fx:id="dateLabel" layoutX="108.0" layoutY="53.0" text="Date Placeholder">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Circle fx:id="circledUserImage" fill="WHITE" layoutX="54.0" layoutY="49.0" radius="40.0" stroke="#c0deed" strokeType="INSIDE" strokeWidth="0.1" />
+   </children>
+</AnchorPane>

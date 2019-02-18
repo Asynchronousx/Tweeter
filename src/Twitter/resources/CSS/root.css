@@ -1,0 +1,8 @@
+.root {
+    -fx-background-color: #FFFFFF;
+    -fx-border-width: 0px;
+}
+
+.root:focused {
+    -fx-background-color: transparent;
+}
