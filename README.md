@@ -17,11 +17,12 @@ Following here, some screenshot of how the software looks like:
 <img src="https://i.ibb.co/Yfhzq7g/3.png" width="300">
 
 ### Feed Screens
-![Main Feed Screen](https://picoolio.net/image/dBgI)<br>
-![Personal Page Screen](https://picoolio.net/image/dBgd)<br>
-![Searching Hashtag Screen](https://picoolio.net/image/dBgS)<br>
-![Searching Person Screen](https://picoolio.net/image/dBgq)<br>
-![Example of Full Feed Screen]()<br>
+<img src="https://i.ibb.co/WBhHHjY/4.png" width="300">
+<img src="https://i.ibb.co/g7NSpb0/5.png" width="300">
+<img src="https://i.ibb.co/2PVjjdR/6.png" width="300">
+<img src="https://i.ibb.co/3ypkcb7/7.png" width="300">
+<img src="https://i.ibb.co/2PVjjdR/6.png" width="300">
+
 
 
 
