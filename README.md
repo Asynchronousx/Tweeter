@@ -13,13 +13,13 @@ Following here, some screenshot of how the software looks like:
 
 ### Main Screen
 Login screen: Combo a registered user-password to log into the system. <br>
-<img src="https://i.ibb.co/8dWvp76/2.png" width="300">
+<img src="https://i.ibb.co/LnQ3Vck/Immagine.png" width="300">
 
 Sign Up Screen: use it to register to the system.<br>
 <img src="https://i.ibb.co/8dWvp76/2.png" width="300">
 
 Forgot Password Screen: use it to reset your password.<br>
-<img src="https://i.ibb.co/Yfhzq7g/3.png" width="300">
+<img src="https://i.ibb.co/6gDLG5b/3.png" width="300">
 
 ### Feed Screens
 Home Feed: useful to tweet and see other user tweet.<br>
